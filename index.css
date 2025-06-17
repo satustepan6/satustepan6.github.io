@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+
+h2{
+    text-align: center;
+    color: grey;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h3{
+    color: grey;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    width: 300px;
+}
+
+
+article{
+    display: inline-block;
+    width: 700px;
+    height: 700px;
+    text-align: center;
+}
+
